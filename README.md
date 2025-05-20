@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TSGPL
-- 👀 I’m interested in PCs
-- 🌱 I’m currently learning how to code in Python
+- 👀 I’m interested in Tech, Coding, & 3D Printing
+- 🌱 I’m currently learning how to code in Python & Typescript
 - 💞️ I’m looking to collaborate on: Streaming Related Projects
 - 📫 How to reach me: tsgpl@loafcat.site
 
